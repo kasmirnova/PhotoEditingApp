@@ -1,0 +1,15 @@
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\bin\Debug\netstandard2.0\YearCursWork.deps.json
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\bin\Debug\netstandard2.0\YearCursWork.dll
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\bin\Debug\netstandard2.0\ref\YearCursWork.dll
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\bin\Debug\netstandard2.0\YearCursWork.pdb
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\YearCursWork.csprojAssemblyReference.cache
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\YearCursWork.AssemblyInfoInputs.cache
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\YearCursWork.AssemblyInfo.cs
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\YearCursWork.csproj.CoreCompileInputs.cache
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\XamlC.stamp
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\YearCursWork.dll
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\ref\YearCursWork.dll
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\YearCursWork.pdb
+D:\olumpicgames\YearCursWork\YearCursWork\YearCursWork\obj\Debug\netstandard2.0\Redaction.xaml.g.cs
