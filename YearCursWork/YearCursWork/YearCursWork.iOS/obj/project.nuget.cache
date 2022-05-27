@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ae1i2MFc4vx6VcIRIGB694EibDe9AnzU46Hl4KDnBtehA78mRlsqlnv/R/nhgjAuV9mRHZPwm2gIcUsEIz7y4A==",
+  "success": true,
+  "projectFilePath": "/Users/katerina/Desktop/Study/DUT/course/папка без ключей/YearCursWork/YearCursWork/YearCursWork.iOS/YearCursWork.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/katerina/.nuget/packages/syncfusion.licensing/19.1.0.64/syncfusion.licensing.19.1.0.64.nupkg.sha512",
+    "/Users/katerina/.nuget/packages/syncfusion.xamarin.core/19.1.0.64/syncfusion.xamarin.core.19.1.0.64.nupkg.sha512",
+    "/Users/katerina/.nuget/packages/syncfusion.xamarin.sfimageeditor/19.1.0.64/syncfusion.xamarin.sfimageeditor.19.1.0.64.nupkg.sha512",
+    "/Users/katerina/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/katerina/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/katerina/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

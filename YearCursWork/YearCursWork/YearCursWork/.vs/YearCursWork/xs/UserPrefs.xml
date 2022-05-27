@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainPage.xaml.cs">
+    <Files>
+      <File FileName="App.xaml" Line="1" Column="1" />
+      <File FileName="MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Redaction.xaml.cs" Line="1" Column="1" />
+      <File FileName="AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Interface/CameraInterface.cs" Line="1" Column="1" />
+      <File FileName="Models/FileFormatEnum.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YearCursWork" expanded="True">
+            <Node name="YearCursWork" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="Redaction.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

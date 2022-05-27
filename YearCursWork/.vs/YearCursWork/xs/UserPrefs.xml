@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{A548CE9F-5222-43CD-8C63-B624CBADED0E}|Default">
+  <MonoDevelop.Ide.ItemProperties.YearCursWork.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YearCursWork/YearCursWork/MainPage.xaml.cs">
+    <Files>
+      <File FileName="YearCursWork/YearCursWork/Redaction.xaml" Line="1" Column="1" />
+      <File FileName="YearCursWork/YearCursWork.Android/MainActivity.cs" Line="26" Column="144" />
+      <File FileName="YearCursWork/YearCursWork.iOS/CameraIOS.cs" />
+      <File FileName="YearCursWork/YearCursWork.iOS/Main.cs" Line="17" Column="77" />
+      <File FileName="YearCursWork/YearCursWork/App.xaml.cs" Line="13" Column="145" />
+      <File FileName="YearCursWork/YearCursWork/Redaction.xaml.cs" />
+      <File FileName="YearCursWork/YearCursWork/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="YearCursWork/YearCursWork/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YearCursWork" expanded="True">
+            <Node name="YearCursWork" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="Redaction.xaml" expanded="True" />
+            </Node>
+            <Node name="YearCursWork.Android" expanded="True" />
+            <Node name="YearCursWork.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

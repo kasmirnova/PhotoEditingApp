@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C6637696-B3F1-4E2C-ADF2-364F35701829}|Default">
+  <MonoDevelop.Ide.ItemProperties.YearCursWork.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.47E17C67-E950-45B8-8C6C-20D84DC2308E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CameraIOS.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+      <File FileName="Entitlements.plist" />
+      <File FileName="CameraIOS.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YearCursWork.iOS" expanded="True">
+            <Node name="YearCursWork.iOS" expanded="True">
+              <Node name="CameraIOS.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
